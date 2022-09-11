@@ -1,0 +1,26 @@
+.form {
+  width: 600px;
+  margin-left: 700px;
+  margin-top: 200px;
+}
+
+.form #input {
+  width: 300px;
+  border: 1px solid green;
+  border-radius: 10px;
+}
+
+#dropdown-basic {
+  width: 300px;
+  border-radius: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.form #input-one {
+  width: 300px;
+  height: 100px;
+  border-radius: 20px;
+  border: 1px solid green;
+}
